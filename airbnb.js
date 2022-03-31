@@ -41,7 +41,7 @@ window.addEventListener('scroll',()=>{
 	}
 })
 let fl=true;
-
+/*
 search.addEventListener('click',()=>{
 		let p=document.createElement("p");
 		p.innerHTML="";
@@ -64,7 +64,7 @@ p.innerHTML="Search";
 fl=!fl;
 
 });
-
+*/
 let cl=false;
 ac.addEventListener('click', ()=>{
 	let s=document.getElementsByClassName('menuoption')[0];
